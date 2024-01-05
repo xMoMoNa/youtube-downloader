@@ -1,5 +1,5 @@
 # YouTube-downloader
-This is the beta version of the YouTube-downloader to download videos and playlists from Youtube 
+This is the beta version of the YouTube-downloader to download videos and playlists from Youtube using python
 
 # Modules
 - pytube library for downloading video
